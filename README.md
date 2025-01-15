@@ -30,6 +30,7 @@ This project uses the COCO-SSD (Common Objects in Context - Single Shot MultiBox
 - And many more
 
 The model provides:
+
 - Object classification
 - Bounding box coordinates
 - Confidence scores for each detection
@@ -65,6 +66,7 @@ The model provides:
 ## Browser Compatibility
 
 The application requires:
+
 - Modern browser with WebGL support
 - Camera/webcam access
 - JavaScript enabled
@@ -83,3 +85,7 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Example
+
+![alt text](Screenshot_20250115-120840.jpg) ![alt text](Screenshot_20250115-121132.jpg)
